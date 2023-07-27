@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(255, 206, 231);
+}
+button{
+    margin-top: 5px;
+    margin-left: 5px;
+    position: relative;
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+#contenedor-tareas{
+    margin-top: 10px;
+    padding: 5px;
+}
+#tarea{
+   
+    outline: none;
+    background-color: rgb(255, 237, 246); 
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
